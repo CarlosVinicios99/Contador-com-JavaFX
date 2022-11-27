@@ -2,10 +2,10 @@
 
 ## Visão Geral
 <p>
-  Contador desenvolvido com JavaFX, com o objetivo de aprender mais sobre a biblioteca JavaFX e estratégias e recursos sobre desenvolvimento de interfaces gráfica em Java.
+  Contador desenvolvido com JavaFX, com o objetivo de aprender mais sobre a biblioteca JavaFX, estratégias e recursos sobre desenvolvimento de interfaces gráfica em Java.
 </p>
 <p>
-  O contador possui dois botões, um para incremento e outro para decremento, o estilo do número é atualizado quando ocorre a mudança de sinal do computador, vermelho para negativo e verde para positivo.
+  O contador possui dois botões, um para incremento e outro para decremento, o estilo do número é atualizado quando ocorre a mudança de sinal do contador, vermelho para negativo e verde para positivo.
 </p>
 
 ## Visual Inicial Do Contador
